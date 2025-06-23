@@ -69,6 +69,7 @@ We aim to make this repository as convenient and reproducible as possible:
 
 If you find the work is useful, please cite our paper. Your support is greatly appreciated!
 
+```bibtex
 @article{guan2025cd,
   title={CD-Tron: Leveraging large clinical language model for early detection of cognitive decline from electronic health records},
   author={Guan, Hao and Novoa-Laurentiev, John and Zhou, Li},
