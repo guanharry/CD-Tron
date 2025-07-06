@@ -1,6 +1,6 @@
 **CD-Tron: Leveraging Large Clinical Language Models for Early Detection of Cognitive Decline from Electronic Health Records**
 
-This repository contains the evaluation code for **CD-Tron**, a system that uses large clinical language models to detect cognitive decline from clinical notes. 
+This repository contains the evaluation code for **CD-Tron**, a system that uses large clinical language models to detect cognitive decline from clinical notes. Please also check our Hugging Face Hub (https://huggingface.co/HAO-AI/cdtron-cognitive-decline)
 
 ---
 
@@ -58,7 +58,7 @@ The outputs include three figures: 1) ROC Curve; 2) Precision-Recall Curve; 3) C
 
 We aim to make this repository as convenient and reproducible as possible:
 
-- **Hugging Face model integration:** The pretrained model and tokenizer are hosted on Hugging Face Hub. Users can easily load the model directly with a **simple one-line command**, without any manual downloads.
+- **Hugging Face model integration:** The pretrained model and tokenizer are hosted on Hugging Face Hub (https://huggingface.co/HAO-AI/cdtron-cognitive-decline). Users can easily load the model directly with a **simple one-line command**, without any manual downloads.
     
 - **Synthetic data included:** The model was originally fine-tuned on private real-world clinical data (which cannot be shared). To demonstrate the full pipeline, we provide synthetic data for the task of cognitive decline detection, allowing users to run the full evaluation easily.
     
